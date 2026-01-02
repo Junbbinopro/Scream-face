@@ -61,7 +61,7 @@ local entity = spawner.Create({
     Death = {
         Type = "Curious",
         Hints = {
-            "You die to Mad Smiler?",
+            "You die to Scream Face?",
             "When it appears the room turns red",
             "Hide now!",
             "Because it's coming very soon!",
